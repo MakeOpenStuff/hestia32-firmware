@@ -3,9 +3,15 @@
 [![Build Status](https://github.com/MakeOpenStuff/hestia32/actions/workflows/build.yml/badge.svg)](https://github.com/MakeOpenStuff/hestia32/actions/workflows/build.yml)
 [![Tests](https://github.com/MakeOpenStuff/hestia32/actions/workflows/build.yml/badge.svg?event=push)](https://github.com/MakeOpenStuff/hestia32/actions)
 
-![Hestia32 PCB Assembly](img/pcb-v1.0_assembly.jpg)
+![Hestia32 Wall Installation](img/hestia-32-wall-01.jpg)
 
 ESP32 firmware with WiFi provisioning, OTA updates, ILI9488 display, resistive touch and factory reset support.
+
+## Hestia32 is currently in pre-launch on Crowd Supply.
+[Follow the campaign →](https://www.crowdsupply.com/makeopenstuff/hestia32)
+
+
+![Hestia32 Internals](img/hestia-32-open-02.jpg)
 
 ## Supported Hardware
 
@@ -55,6 +61,8 @@ ESP32 firmware with WiFi provisioning, OTA updates, ILI9488 display, resistive t
 - **Regional variants:**
   - EU (European power levels and configurations)
   - HVAC (heating/cooling optimized)
+
+![Hestia32 Options](img/hestia-32-angle-03.jpg)
 
 ## Prerequisites
 
